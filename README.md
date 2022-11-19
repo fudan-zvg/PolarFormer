@@ -62,11 +62,11 @@ PolarFormer-joint_det_seg, R101_DCN| 82.6 | 50.1 | 57.4 | 54.1 | 44.5 |
 
 ## Reference
 ```bibtex   
-@article{jiang2022polar,
+@inproceedings{jiang2022polar,
   title={PolarFormer: Multi-camera 3D Object Detection with Polar Transformers},
   author={Jiang, Yanqin and Zhang, Li and Miao, Zhenwei and Zhu, Xiatian and Gao, Jin and Hu, Weiming and Jiang, Yu-Gang},
-  journal={arXiv preprint},
-  year={2022}
+  booktitle={AAAI},
+  year={2023}
 }
 ```
 
