@@ -3,7 +3,8 @@
 ### [Paper](https://arxiv.org/abs/2206.15398)
 > [**PolarFormer: Multi-camera 3D Object Detection
 with Polar Transformers**](https://arxiv.org/abs/2206.15398),            
-> Yanqin Jiang, Li Zhang, Zhenwei Miao, Xiatian Zhu, Jin Gao, Weiming Hu, Yu-Gang Jiang      
+> Yanqin Jiang, Li Zhang, Zhenwei Miao, Xiatian Zhu, Jin Gao, Weiming Hu, Yu-Gang Jiang  
+> **AAAI 2023**
 
 **This repository is an official implementation of PolarFormer.**
 <div align="center">
